@@ -1,0 +1,19 @@
+{
+  "name": "ui-components",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattandryc/ui-components.git"
+  },
+  "author": "mattandryc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattandryc/ui-components/issues"
+  },
+  "homepage": "https://github.com/mattandryc/ui-components#readme"
+}
